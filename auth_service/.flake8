@@ -1,0 +1,11 @@
+[flake8]
+exclude =
+    migrations
+    locale
+    __pycache__
+    manage.py
+    settings.py
+    venv
+    .env
+    .env.example
+    logger.py
